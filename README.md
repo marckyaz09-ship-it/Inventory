@@ -13,7 +13,7 @@
 
 - *[Marcky Cielo A.Cañete]*
 - *[Justin Sam G. Cantiga]*
-- *[Member 3 Name]*
+- *[Nikko Asube]*
 - *[Additional Members]*
 
 ---
