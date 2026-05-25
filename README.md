@@ -1,6 +1,6 @@
 # Inventory Management System
 
-## 📋 Project Information
+## Project Information
 
 **Course:** BS Information Technology 1C  
 **Project Type:** Group Project  
@@ -20,7 +20,7 @@
 
 ---
 
-## 📝 Project Description
+## Project Description
 
 The **Inventory Management System** is a command-line application designed to help users efficiently manage their inventory of items. The system allows users to add, view, update, search, and remove items while maintaining persistent storage in JSON format.
 
@@ -34,7 +34,7 @@ This project demonstrates fundamental programming concepts including:
 
 ---
 
-## ✨ Features
+## Features
 
 ### 1. Add New Item
 - Input item name, quantity, and price
@@ -88,7 +88,7 @@ This project demonstrates fundamental programming concepts including:
 
 ---
 
-## 💻 System Requirements
+## System Requirements
 
 - Python 3.6 or higher
 - 2MB disk space (for data files)
@@ -97,7 +97,7 @@ This project demonstrates fundamental programming concepts including:
 
 ---
 
-## 📦 Installation Guide
+## Installation Guide
 
 ### Step 1: Clone the Repository
 
@@ -128,7 +128,7 @@ The system uses only built-in Python libraries, so no `pip install` is needed.
 
 ---
 
-## 🚀 How to Run the Program
+## How to Run the Program
 
 ### Windows
 
@@ -161,7 +161,7 @@ python -m source.inventory
 
 ---
 
-## 📚 Usage Guide
+## Usage Guide
 
 ### Main Menu
 
@@ -243,7 +243,7 @@ Changes saved. Goodbye!
 
 ---
 
-## 📊 Data Storage Format
+## Data Storage Format
 
 ### File Location
 
@@ -276,7 +276,7 @@ Inventory/
 
 ---
 
-## ⚠️ Error Handling
+## Error Handling
 
 The program includes comprehensive error handling:
 
@@ -305,7 +305,7 @@ The program includes comprehensive error handling:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 See the `/images` folder for:
 - Program startup screenshot
@@ -317,7 +317,7 @@ See the `/images` folder for:
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 For detailed documentation, see:
 
@@ -338,7 +338,7 @@ For detailed documentation, see:
 
 ---
 
-## 🔍 Code Structure
+## Code Structure
 
 ### Functions Overview
 
@@ -364,13 +364,13 @@ For detailed documentation, see:
 
 ---
 
-## 🐛 Known Issues
+## Known Issues
 
 None currently. The program has been thoroughly tested.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - [ ] Graphical User Interface (GUI) with Tkinter
 - [ ] SQLite database instead of JSON for scalability
@@ -385,13 +385,13 @@ None currently. The program has been thoroughly tested.
 
 ---
 
-## 📝 License
+## License
 
 This project is created for educational purposes as part of the BS Information Technology 1C curriculum.
 
 ---
 
-## 📧 Support & Contact
+## Support & Contact
 
 For questions or issues regarding this project:
 1. Check the `/documentation` folder for detailed guides
@@ -400,7 +400,7 @@ For questions or issues regarding this project:
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project teaches:
 
@@ -436,7 +436,7 @@ This project teaches:
 
 ---
 
-## ✅ Checklist for Submission
+## Checklist for Submission
 
 - [x] Source code in `/source` folder
 - [x] Pseudocode in `/documentation`
