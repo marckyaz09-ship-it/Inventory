@@ -12,7 +12,7 @@
 ## 👥 Group Members
 
 - *[Marcky Cielo A.Cañete]*
-- *[Justin Sam G> Cantiga]*
+- *[Justin Sam G. Cantiga]*
 - *[Member 3 Name]*
 - *[Additional Members]*
 
@@ -78,14 +78,6 @@ The **Inventory Management System** a command-line application designed to help 
 
 ---
 
-## System Requirements
-
-- Python 3.6 or higher
-- 2MB disk space (for data files)
-- Terminal/Command Prompt
-- No external dependencies required
-
-
 ### Main Menu
 
 When you run the program, you'll see:
@@ -102,7 +94,6 @@ When you run the program, you'll see:
 Choose an option (1-6):
 ```
 
-### Example Workflow
 
 #### Add a New Item
 
