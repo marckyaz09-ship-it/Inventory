@@ -16,21 +16,11 @@
 - *[Member 3 Name]*
 - *[Additional Members]*
 
-*Note: Please update this section with actual group member names*
-
 ---
 
 ## Project Description
 
 The **Inventory Management System** a command-line application designed to help users efficiently manage their inventory of items. The system allows users to add, view, update, search, and remove items in the storage in JSON format.
-
-This project demonstrates fundamental programming concepts including:
-- File I/O operations
-- Data structures (dictionaries)
-- User input validation
-- Error handling
-- Menu-driven application design
-- Data persistence
 
 ---
 
@@ -47,18 +37,18 @@ This project demonstrates fundamental programming concepts including:
 - Shows quantity and price for each item
 - Calculates individual item totals (quantity × price)
 - Displays total inventory value
-- Nicely formatted output with alignment
+- Formatted output with alignment
 
 ### 3. Update Item Quantity
 - Search for item by name
 - Update quantity with validation
 - Prevents negative quantities
-- Automatic data persistence
+- Automatic data continuation
 
 ### 4. Remove Item
 - Delete items from inventory
 - Confirmation that item was removed
-- Immediate data persistence
+- Immediate data continuation
 
 ### 5. Search Item
 - Find items by partial name match
@@ -74,7 +64,7 @@ This project demonstrates fundamental programming concepts including:
 
 ---
 
-## 🛠 Technologies & Libraries Used
+## Technologies & Libraries Used
 
 ### Core Language
 - **Python 3.x** - Programming language
