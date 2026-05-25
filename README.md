@@ -192,8 +192,6 @@ Inventory/
 
 ## Error Handling
 
-The program includes comprehensive error handling:
-
 ### Validation Errors
 
 ```
@@ -280,7 +278,7 @@ For detailed documentation, see:
 
 ## Known Issues
 
-None currently. The program has been thoroughly tested.
+None currently. The program is still being tested.
 
 ---
 
@@ -297,11 +295,6 @@ None currently. The program has been thoroughly tested.
 - [ ] Barcode scanning integration
 - [ ] Statistical analysis and trends
 
----
-
-## License
-
-This project is created for educational purposes as part of the BS Information Technology 1C curriculum.
 
 ---
 
