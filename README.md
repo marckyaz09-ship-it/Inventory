@@ -12,7 +12,7 @@
 ## 👥 Group Members
 
 - *[Marcky Cielo A.Cañete]*
-- *[]*
+- *[Justin Sam G> Cantiga]*
 - *[Member 3 Name]*
 - *[Additional Members]*
 
@@ -92,8 +92,7 @@ The **Inventory Management System** a command-line application designed to help 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/marckyaz09-ship-it/Inventory.git
-cd Inventory
+
 ```
 
 ### Step 2: Verify Python Installation
