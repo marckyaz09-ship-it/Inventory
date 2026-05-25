@@ -11,8 +11,8 @@
 
 ## 👥 Group Members
 
-- *[Group Leader Name]*
-- *[Member 2 Name]*
+- *[Marcky Cielo A.Cañete]*
+- *[]*
 - *[Member 3 Name]*
 - *[Additional Members]*
 
@@ -22,7 +22,7 @@
 
 ## Project Description
 
-The **Inventory Management System** is a command-line application designed to help users efficiently manage their inventory of items. The system allows users to add, view, update, search, and remove items while maintaining persistent storage in JSON format.
+The **Inventory Management System** a command-line application designed to help users efficiently manage their inventory of items. The system allows users to add, view, update, search, and remove items in the storage in JSON format.
 
 This project demonstrates fundamental programming concepts including:
 - File I/O operations
