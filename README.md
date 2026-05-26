@@ -14,7 +14,8 @@
 - *[Marcky Cielo A.Cañete]*
 - *[Justin Sam G. Cantiga]*
 - *[Nikko Asube]*
-- *[Additional Members]*
+- *[Lorenz Abcede]*
+- *[Jeax Clemenia]*
 
 ---
 
