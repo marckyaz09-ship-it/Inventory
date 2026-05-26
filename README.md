@@ -283,21 +283,6 @@ None currently. The program is still being tested.
 
 ---
 
-## Future Enhancements
-
-- [ ] Graphical User Interface (GUI) with Tkinter
-- [ ] SQLite database instead of JSON for scalability
-- [ ] Price update functionality
-- [ ] Stock alert system (low inventory warnings)
-- [ ] Inventory reports (CSV/PDF export)
-- [ ] Undo/Redo functionality
-- [ ] Multi-user support with authentication
-- [ ] Backup and restore features
-- [ ] Barcode scanning integration
-- [ ] Statistical analysis and trends
-
-
----
 
 ## Support & Contact
 
