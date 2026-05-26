@@ -218,18 +218,6 @@ Inventory/
 
 ---
 
-## Screenshots
-
-See the `/images` folder for:
-- Program startup screenshot
-- Main menu interface
-- Sample inventory view
-- Add item process
-- Search functionality
-- Program output examples
-
----
-
 ## Documentation
 
 For detailed documentation, see:
@@ -280,16 +268,6 @@ For detailed documentation, see:
 ## Known Issues
 
 None currently. The program is still being tested.
-
----
-
-
-## Support & Contact
-
-For questions or issues regarding this project:
-1. Check the `/documentation` folder for detailed guides
-2. Review the code comments in `inventory.py`
-3. Test with the examples provided in this README
 
 ---
 
