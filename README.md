@@ -17,7 +17,7 @@
 - *[Lorenz Abcede]*
 - *[Jeax Clemenia - https://github.com/hydra251]*
 - *[Abdulmanap B. Kadil - https://github.com/aldulmanapkadil-ui/My-portfolio]*
-- *[Eldridge Justin F. Cabral]*
+- *[Eldridge Justin F. Cabral - https://github.com/kryxen-cyber/my-portfolio]*
 
 ---
 
