@@ -12,11 +12,11 @@
 ## 👥 Group Members
 
 - *[Marcky Cielo A.Cañete]*
-- *[Justin Sam G. Cantiga]*
+- *[Justin Sam G. Cantiga - https://github.com/cantigajustinsam-art]*
 - *[Nikko Asube - https://github.com/nikkoasube13-lang/My-life]*
 - *[Lorenz Abcede]*
 - *[Jeax Clemenia - https://github.com/hydra251]*
-- *[Abdulmanap B. Kadil]*
+- *[Abdulmanap B. Kadil - https://github.com/aldulmanapkadil-ui/My-portfolio]*
 - *[Eldridge Justin F. Cabral]*
 
 ---
