@@ -13,7 +13,7 @@
 
 - *[Marcky Cielo A.Cañete]*
 - *[Justin Sam G. Cantiga]*
-- *[Nikko Asube]*
+- *[Nikko Asube/ https://github.com/nikkoasube13-lang/My-life]*
 - *[Lorenz Abcede]*
 - *[Jeax Clemenia]*
 - *[Abdulmanap B. Kadil]*
