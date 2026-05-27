@@ -16,6 +16,8 @@
 - *[Nikko Asube]*
 - *[Lorenz Abcede]*
 - *[Jeax Clemenia]*
+- *[Abdulmanap B. Kadil]*
+- *[Eldridge Justin F. Cabral]*
 
 ---
 
