@@ -15,7 +15,7 @@
 - *[Justin Sam G. Cantiga]*
 - *[Nikko Asube/ https://github.com/nikkoasube13-lang/My-life]*
 - *[Lorenz Abcede]*
-- *[Jeax Clemenia]*
+- *[Jeax Clemenia - https://github.com/hydra251]*
 - *[Abdulmanap B. Kadil]*
 - *[Eldridge Justin F. Cabral]*
 
