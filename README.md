@@ -299,19 +299,4 @@ This project teaches:
    - Testing methodology
 
 ---
-
-## Checklist for Submission
-
-- [x] Source code in `/source` folder
-- [x] Pseudocode in `/documentation`
-- [x] Flowchart in `/documentation`
-- [x] Program logic documentation
-- [x] Screenshot examples in `/images` folder
-- [x] Comprehensive README.md
-- [x] Code is functional and tested
-- [x] Repository is public
-- [x] All files properly organized
-- [x] Commit history shows group contributions
-
----
 https://github.com/marckyaz09-ship-it/Inventory
