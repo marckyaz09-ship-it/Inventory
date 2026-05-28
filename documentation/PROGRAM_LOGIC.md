@@ -1,9 +1,5 @@
 # Inventory Management System - Program Logic Explanation
 
-## Overview
-
-The Inventory Management System is a command-line application that allows users to manage a collection of items with their quantities and prices. The system stores data persistently in a JSON file and provides a user-friendly menu interface.
-
 ---
 
 ## Core Components
@@ -124,12 +120,6 @@ Mouse                | Qty:    20 | Price: $   25.50 | Total: $  510.00
 ----------------------------------------------------------------------
 TOTAL INVENTORY VALUE                                  | Total: $ 5509.95
 ```
-
-**Why This Format:**
-- Aligned columns for readability
-- All monetary values in consistent format
-- Clear totals for inventory management
-
 #### UPDATE ITEM
 1. Request item name from user
 2. Normalize input
@@ -140,8 +130,6 @@ TOTAL INVENTORY VALUE                                  | Total: $ 5509.95
 7. Save to file
 8. Confirm success
 
-**Note:** Only updates quantity, not price (can be extended for price updates)
-
 #### REMOVE ITEM
 1. Request item name from user
 2. Normalize input
@@ -149,8 +137,6 @@ TOTAL INVENTORY VALUE                                  | Total: $ 5509.95
 4. Delete from dictionary
 5. Save to file
 6. Confirm success
-
-**Safety Note:** Operation is permanent; consider adding confirmation step for production
 
 #### SEARCH ITEM
 1. Request search term from user
@@ -258,19 +244,6 @@ Matches: "laptop" (because "lap" is in "laptop")
 
 ---
 
-## Potential Improvements
-
-1. **Database Migration:** Move to SQLite for larger datasets
-2. **Backup System:** Automatic backups of inventory.json
-3. **Edit Price:** Allow price updates in addition to quantity
-4. **Stock Alerts:** Warn when quantity falls below threshold
-5. **Undo/Redo:** Maintain history of changes
-6. **Export Reports:** Generate CSV/PDF reports
-7. **Multi-user Support:** Database with user accounts
-8. **GUI Interface:** Graphical user interface instead of CLI
-
----
-
 ## Testing Considerations
 
 ### Unit Test Examples
@@ -304,12 +277,3 @@ Actual: ✓ Passed
 ```
 
 ---
-
-## Conclusion
-
-The Inventory Management System demonstrates:
-- Clean, modular code structure
-- Proper error handling and validation
-- Persistent data storage
-- User-friendly interface
-- Best practices for file I/O operations
