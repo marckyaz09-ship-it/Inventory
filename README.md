@@ -3,8 +3,8 @@
 ## Project Information
 
 **Course:** BS Information Technology 1C  
-**Project Type:** Group Project  
-**Language:** Python 3  
+**Group Project**  
+**Language:** Python   
 **Status:** ✅ Functional and Complete
 
 ---
