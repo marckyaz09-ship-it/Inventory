@@ -11,13 +11,13 @@
 
 ## 👥 Group Members
 
-- *[Marcky Cielo A.Cañete - https://github.com/marckyaz09-ship-it/IT1C_PORTFOLIO_canyete]*
-- *[Justin Sam G. Cantiga - https://github.com/cantigajustinsam-art]*
-- *[Nikko Asube - https://github.com/nikkoasube13-lang/My-life]*
-- *[Lorenz Abcede]*
-- *[Jeax Clemenia - https://github.com/hydra251]*
-- *[Abdulmanap B. Kadil - https://github.com/aldulmanapkadil-ui/My-portfolio]*
-- *[Eldridge Justin F. Cabral - https://github.com/kryxen-cyber/my-portfolio]*
+- [Marcky Cielo A.Cañete](https://github.com/marckyaz09-ship-it/IT1C_PORTFOLIO_canyete) 
+- [Justin Sam G. Cantiga](https://github.com/cantigajustinsam-art) 
+- [Nikko Asube](https://github.com/nikkoasube13-lang/My-life) 
+- [Lorenz Abcede]
+- [Jeax Clemenia](https://github.com/hydra251) 
+- [Abdulmanap B. Kadil](https://github.com/aldulmanapkadil-ui/My-portfolio) 
+- [Eldridge Justin F. Cabral](https://github.com/kryxen-cyber/my-portfolio) 
 
 ---
 
