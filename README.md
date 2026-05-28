@@ -314,7 +314,4 @@ This project teaches:
 - [x] Commit history shows group contributions
 
 ---
-
-**Project Version:** 1.0  
-**Last Updated:** 2026-05-24  
-**Repository:** https://github.com/marckyaz09-ship-it/Inventory
+https://github.com/marckyaz09-ship-it/Inventory
