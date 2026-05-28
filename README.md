@@ -11,7 +11,7 @@
 
 ## 👥 Group Members
 
-- *[Marcky Cielo A.Cañete]*
+- *[Marcky Cielo A.Cañete - https://github.com/marckyaz09-ship-it/IT1C_PORTFOLIO_canyete]*
 - *[Justin Sam G. Cantiga - https://github.com/cantigajustinsam-art]*
 - *[Nikko Asube - https://github.com/nikkoasube13-lang/My-life]*
 - *[Lorenz Abcede]*
